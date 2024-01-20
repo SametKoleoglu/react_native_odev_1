@@ -1,0 +1,40 @@
+const productList = [
+    {
+        id:1,
+        name:"product1",
+        image:`https://picsum.photos/id/1/200/300`,
+        unitPrice:100
+    },
+    {
+        id:2,
+        name:"product2",
+        image:`https://picsum.photos/id/2/200/300`,
+        unitPrice:200
+    },
+    {
+        id:3,
+        name:"product3",
+        image:`https://picsum.photos/id/3/200/300`,
+        unitPrice:300
+    },
+    {
+        id:4,
+        name:"product4",
+        image:`https://picsum.photos/id/4/200/300`,
+        unitPrice:400
+    },
+    {
+        id:5,
+        name:"product5",
+        image:`https://picsum.photos/id/5/200/300`,
+        unitPrice:500
+    },
+    {
+        id:6,
+        name:"product6",
+        image:`https://picsum.photos/id/6/200/300`,
+        unitPrice:600
+    }
+]
+
+export default productList
